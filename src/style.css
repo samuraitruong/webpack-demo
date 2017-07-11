@@ -1,0 +1,9 @@
+body {
+    background: rgba(1, 2, 3, 0.5);
+    color: white;
+    font-family: LatoWebMedium;
+}
+
+.hello {
+    background: url('images/1.jpg');
+}
